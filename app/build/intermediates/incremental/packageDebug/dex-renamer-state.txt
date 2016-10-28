@@ -1,0 +1,7 @@
+#Tue Oct 18 14:37:11 IST 2016
+base.0=C\:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_87dcc692c6a3b92a5640623ce89dd597de5dc306
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4c37a4276df98441f6d482c38612f7fcac6e013f\\classes.dex
+base.1=C\:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4c37a4276df98441f6d482c38612f7fcac6e013f
+file.0=C\:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_87dcc692c6a3b92a5640623ce89dd597de5dc306\\classes.dex

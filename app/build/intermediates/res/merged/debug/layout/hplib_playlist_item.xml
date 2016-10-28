@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/hplib_list_selector"
+    android:padding="5dp">
+    <TextView
+        android:id="@+id/songTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:padding="10dp"
+        android:color="#f3f3f3"
+        android:text="Song"
+        android:textColor="#ffffff" />
+    <TextView
+        android:id="@+id/albumTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:padding="10dp"
+        android:color="#f3f3f3"
+        android:text="Album"
+        android:textColor="#ffffff" />
+</LinearLayout>

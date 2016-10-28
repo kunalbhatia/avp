@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_6c1521210ce507cd123892e1e03a5c1e6656bacc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_ab9a9a6d25891bbe5f0207cebd0edb5df037621b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_0cad6141ee2c170d5fd99172822a4602e8739155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_652d99e71fc7d97515dadf4fd4ea674c440a3910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="978a2317c18eeb2660582a3466c8d74a2f55197d">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c37a4276df98441f6d482c38612f7fcac6e013f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_52f1ded4084a7a70bf119536fbe007e95a3c2c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="efba3a95bfd5a7fa40ed0758be78e806818b5449">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.exoplayer-exoplayer-r1.5.8_8447da52d674f9a55fd293bb59ba413199b873bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_1e2b35d2f18110633449b3b4a890dd127c1033c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_582614e9719b3025095884ef367f20de8bc10392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_3592406caabf6061a7574f9ac96e5a8349b73ab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_1c28009ed927b9f2b6af5587a8b9477472a05d4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kunal.bhatia\.gradle\caches\modules-2\files-2.1\com.googlecode.android-query\android-query\0.25.9\fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f\android-query-0.25.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-query-0.25.9_a643e666a07fd30e81503f75bbdd6fe2fd11f485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_93500474e18860145a765ad2138b9f7b0a895b57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_7d6d561dbed290da1b084b80c445e10311728829\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.1_081c1d6b758034bd4039e7e0ef9975458c61f3c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\libs\android-query.0.25.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a60258ce3d38031f3e2ab3afeb38c65f3516fe5a">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query.0.25.10_c04c5e6e202b2badd77adc3170636c6745eb095a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kunal.bhatia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_e91ca3a9f4ee42014962b4ef00e5f8cc20ee75eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_53d94229643e246576fc533a232fd194f2bf6ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="db5708aee8805569905973503fc0392ed76415e7">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_87dcc692c6a3b92a5640623ce89dd597de5dc306\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="C:\wamp64\www\Dropbox\AndroidProjects\HungamaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_2524984bee1e06a30ddb680153e88043666386b9\classes.dex" />
+    </item>
+
+</items>

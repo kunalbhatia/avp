@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_forward.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_forward.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_ic_launcher.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_ic_launcher.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_forward_pressed.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_forward_pressed.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_forward.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_forward.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_gradient_bg.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_play.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_play.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_next_pressed.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_next_pressed.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_backward.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_backward.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_shuffle_focused.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_shuffle_focused.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_seek_handler.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_seek_handler.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_playlist.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_playlist.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_play.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_play.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_seekbar_progress_blue.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_seekbar_progress_blue.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_verticalbar_design_volume.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_verticalbar_design_volume.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_list_selector.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_list_selector.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_play_pressed.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_play_pressed.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_repeat.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_repeat.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_verticalbar_design_brightness.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_verticalbar_design_brightness.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_playlist.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_playlist.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_repeat.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_repeat.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_pause.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_pause.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_backward_pressed.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_backward_pressed.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_adele.jpg",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_adele.jpg"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_seekbar_progress_bg.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_repeat_focused.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_repeat_focused.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_bg.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_bg.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_backward.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_backward.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_shuffle.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_shuffle.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_seekbar_progress.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_seekbar_progress.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_gradient_bg_hover.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_next.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_next.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_seekbar_bg.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_seekbar_bg.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_repeat_pressed.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_repeat_pressed.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_pause.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_pause.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_next.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_next.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_playlist_pressed.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_playlist_pressed.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_previous_pressed.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_previous_pressed.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_shuffle.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_shuffle.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_btn_previous.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_btn_previous.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_previous.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_previous.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_shuffle_pressed.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_shuffle_pressed.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hplib_img_btn_pause_pressed.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\src\\main\\res\\drawable\\hplib_img_btn_pause_pressed.png"
+    }
+]

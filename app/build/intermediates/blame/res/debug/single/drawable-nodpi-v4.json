@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-nodpi-v4\\cast_album_art_placeholder.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-nodpi-v4\\cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cast_mini_controller_img_placeholder.png",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-nodpi-v4\\cast_mini_controller_img_placeholder.png"
+    }
+]
