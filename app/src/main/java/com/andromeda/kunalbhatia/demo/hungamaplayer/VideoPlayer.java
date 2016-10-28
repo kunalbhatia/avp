@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.MediaRouteButton;
+import android.support.v7.widget.PopupMenu;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.SurfaceView;
 import android.view.View;
@@ -18,10 +21,12 @@ import android.widget.TextView;
 import com.google.android.exoplayer.DummyTrackRenderer;
 import com.google.android.exoplayer.ExoPlayer;
 import com.google.android.exoplayer.MediaCodecVideoTrackRenderer;
+import com.google.android.exoplayer.MediaFormat;
 import com.google.android.exoplayer.TrackRenderer;
 import com.google.android.exoplayer.chunk.Format;
 import com.google.android.exoplayer.hls.HlsSampleSource;
 import com.google.android.exoplayer.upstream.BandwidthMeter;
+import com.google.android.exoplayer.util.MimeTypes;
 import com.google.android.exoplayer.util.PlayerControl;
 import com.google.android.exoplayer.util.Util;
 import com.google.android.gms.cast.MediaInfo;
@@ -72,6 +77,8 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
     private TextView txt_ct,txt_td;
     private SeekBar seekBar;
     private PlayerControl playerControl;
+
+
     public enum PlaybackState {
         PLAYING, PAUSED, BUFFERING, IDLE
     }
@@ -89,6 +96,7 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
 
     private ImageButton btn_lock;
     private ImageButton btn_unlock;
+    private ImageButton btn_settings;
 
 
     private final SessionManagerListener<CastSession> mSessionManagerListener = new SessionManagerListenerImpl();
@@ -351,6 +359,7 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
 
         btn_lock = (ImageButton) findViewById(R.id.btn_lock);
         btn_unlock = (ImageButton) findViewById(R.id.btn_unlock);
+        btn_settings = (ImageButton) findViewById(R.id.btn_settings);
 
 
         btn_back.setOnClickListener(this);
@@ -363,8 +372,10 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
 
         btn_lock.setOnClickListener(this);
         btn_unlock.setOnClickListener(this);
+        btn_settings.setOnClickListener(this);
 
         unlock_panel = (LinearLayout) findViewById(R.id.unlock_panel);
+
 
 
         txt_title = (TextView) findViewById(R.id.txt_title);
@@ -435,6 +446,31 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
             controlsState = ControlsMode.FULLCONTORLS;
             root.setVisibility(View.VISIBLE);
             unlock_panel.setVisibility(View.GONE);
+        }
+        if (i1 == R.id.btn_settings) {
+            PopupMenu popup = new PopupMenu(VideoPlayer.this, v);
+            popup.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener() {
+                @Override
+                public boolean onMenuItemClick(MenuItem item) {
+                    player.setSelectedTrack(0, (item.getItemId() - 1));
+                    return false;
+                }
+            });
+            Menu menu = popup.getMenu();
+            menu.add(Menu.NONE, 0, 0, "Video Quality");
+            for (int i = 0; i < player.getTrackCount(0); i++) {
+                MediaFormat format = player.getTrackFormat(0, i);
+                if (MimeTypes.isVideo(format.mimeType)) {
+                    if (format.adaptive) {
+                        menu.add(1, (i + 1), (i + 1), "Auto");
+                    } else {
+                        menu.add(1, (i + 1), (i + 1), format.width + "p");
+                    }
+                }
+            }
+            menu.setGroupCheckable(1, true, true);
+            menu.findItem((player.getSelectedTrack(0) + 1)).setChecked(true);
+            popup.show();
         }
     }
 
