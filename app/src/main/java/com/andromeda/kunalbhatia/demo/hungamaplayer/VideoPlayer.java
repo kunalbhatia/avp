@@ -456,6 +456,7 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
                     return false;
                 }
             });
+
             Menu menu = popup.getMenu();
             menu.add(Menu.NONE, 0, 0, "Video Quality");
             for (int i = 0; i < player.getTrackCount(0); i++) {
