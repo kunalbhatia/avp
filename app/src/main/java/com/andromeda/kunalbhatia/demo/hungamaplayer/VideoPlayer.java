@@ -13,6 +13,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.MediaRouteButton;
 import android.support.v7.widget.PopupMenu;
 import android.util.DisplayMetrics;
+import android.util.Log;
 import android.view.Display;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -65,7 +66,8 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
     private Handler mainHandler;
     private HpLib_RendererBuilder hpLibRendererBuilder;
     private TrackRenderer videoRenderer;
-    private LinearLayout root,top_controls, middle_panel, unlock_panel, bottom_controls;
+    private LinearLayout root,top_controls, middle_panel, unlock_panel, bottom_controls,seekBar_center_text,onlySeekbar;
+    private double seekSpeed = 0;
     public static final int TYPE_VIDEO = 0;
     private View decorView;
     private int uiImmersiveOptions;
@@ -90,7 +92,6 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
     private PlayerControl playerControl;
 
 
-
     public enum PlaybackState {
         PLAYING, PAUSED, BUFFERING, IDLE
     }
@@ -113,6 +114,7 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
 
     private Display display;
     private Point size;
+
     private int sWidth,sHeight;
     private float baseX, baseY;
     private long diffX, diffY;
@@ -126,7 +128,7 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
     private Window window;
     private LinearLayout volumeBarContainer, brightnessBarContainer,brightness_center_text, vol_center_text;
     private ProgressBar volumeBar, brightnessBar;
-    private TextView vol_perc_center_text, brigtness_perc_center_text;
+    private TextView vol_perc_center_text, brigtness_perc_center_text,txt_seek_secs,txt_seek_currTime;
     private ImageView volIcon, brightnessIcon, vol_image, brightness_image;
     private int brightness, mediavolume,device_height,device_width;
     private AudioManager audioManager;
@@ -349,6 +351,7 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
                     intBottom = false;
                     intTop = false;
                 }
+                seekSpeed = (TimeUnit.MILLISECONDS.toSeconds(player.getDuration()) * 0.1);
                 diffX = 0;
                 calculatedTime = 0;
                 seekDur = String.format("%02d:%02d",
@@ -432,6 +435,38 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
                             volumeBarContainer.setVisibility(View.VISIBLE);
                             volumeBar.setProgress((int) volPerc);
                         }
+                    }else if (Math.abs(diffX) > Math.abs(diffY)) {
+                        if (Math.abs(diffX) > (MIN_DISTANCE + 100)) {
+                            tested_ok = true;
+                            root.setVisibility(View.VISIBLE);
+                            seekBar_center_text.setVisibility(View.VISIBLE);
+                            onlySeekbar.setVisibility(View.VISIBLE);
+                            top_controls.setVisibility(View.GONE);
+                            bottom_controls.setVisibility(View.GONE);
+                            String totime = "";
+                            calculatedTime = (int) ((diffX) * seekSpeed);
+                            if (calculatedTime > 0) {
+                                seekDur = String.format("[ +%02d:%02d ]",
+                                        TimeUnit.MILLISECONDS.toMinutes(calculatedTime) -
+                                                TimeUnit.HOURS.toMinutes(TimeUnit.MILLISECONDS.toHours(calculatedTime)),
+                                        TimeUnit.MILLISECONDS.toSeconds(calculatedTime) -
+                                                TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(calculatedTime)));
+                            } else if (calculatedTime < 0) {
+                                seekDur = String.format("[ -%02d:%02d ]",
+                                        Math.abs(TimeUnit.MILLISECONDS.toMinutes(calculatedTime) -
+                                                TimeUnit.HOURS.toMinutes(TimeUnit.MILLISECONDS.toHours(calculatedTime))),
+                                        Math.abs(TimeUnit.MILLISECONDS.toSeconds(calculatedTime) -
+                                                TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(calculatedTime))));
+                            }
+                            totime = String.format("%02d:%02d",
+                                    TimeUnit.MILLISECONDS.toMinutes(player.getCurrentPosition() + (calculatedTime)) -
+                                            TimeUnit.HOURS.toMinutes(TimeUnit.MILLISECONDS.toHours(player.getCurrentPosition() + (calculatedTime))), // The change is in this line
+                                    TimeUnit.MILLISECONDS.toSeconds(player.getCurrentPosition() + (calculatedTime)) -
+                                            TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(player.getCurrentPosition() + (calculatedTime))));
+                            txt_seek_secs.setText(seekDur);
+                            txt_seek_currTime.setText(totime);
+                            seekBar.setProgress((int) (player.getCurrentPosition() + (calculatedTime)));
+                        }
                     }
                 }
                 break;
@@ -439,10 +474,18 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
             case MotionEvent.ACTION_UP:
                 screen_swipe_move=false;
                 tested_ok = false;
+
+                seekBar_center_text.setVisibility(View.GONE);
                 brightness_center_text.setVisibility(View.GONE);
                 vol_center_text.setVisibility(View.GONE);
                 brightnessBarContainer.setVisibility(View.GONE);
                 volumeBarContainer.setVisibility(View.GONE);
+                onlySeekbar.setVisibility(View.VISIBLE);
+                top_controls.setVisibility(View.VISIBLE);
+                bottom_controls.setVisibility(View.VISIBLE);
+                root.setVisibility(View.VISIBLE);
+                calculatedTime = (int) (player.getCurrentPosition() + (calculatedTime));
+                player.seekTo(calculatedTime);
                 showControls();
                 break;
 
@@ -460,6 +503,7 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
         display.getSize(size);
         sWidth = size.x;
         sHeight = size.y;
+
 
         DisplayMetrics displaymetrics = new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(displaymetrics);
@@ -522,6 +566,13 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
 
 
 
+        txt_seek_secs = (TextView) findViewById(R.id.txt_seek_secs);
+        txt_seek_currTime = (TextView) findViewById(R.id.txt_seek_currTime);
+        seekBar_center_text = (LinearLayout) findViewById(R.id.seekbar_center_text);
+        onlySeekbar = (LinearLayout) findViewById(R.id.seekbar_time);
+        top_controls = (LinearLayout) findViewById(R.id.top);
+        bottom_controls = (LinearLayout) findViewById(R.id.controls);
+
         vol_perc_center_text = (TextView) findViewById(R.id.vol_perc_center_text);
         brigtness_perc_center_text = (TextView) findViewById(R.id.brigtness_perc_center_text);
         volumeBar = (ProgressBar) findViewById(R.id.volume_slider);
@@ -530,6 +581,7 @@ public class VideoPlayer extends AppCompatActivity implements HlsSampleSource.Ev
         brightnessBarContainer = (LinearLayout) findViewById(R.id.brightness_slider_container);
         brightness_center_text = (LinearLayout) findViewById(R.id.brightness_center_text);
         vol_center_text = (LinearLayout) findViewById(R.id.vol_center_text);
+
         volIcon = (ImageView) findViewById(R.id.volIcon);
         brightnessIcon = (ImageView) findViewById(R.id.brightnessIcon);
         vol_image = (ImageView) findViewById(R.id.vol_image);

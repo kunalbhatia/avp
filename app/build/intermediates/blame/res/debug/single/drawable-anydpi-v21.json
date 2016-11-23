@@ -28,12 +28,12 @@
         "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hplib_ic_lock.xml"
     },
     {
-        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\hplib_ic_forward.xml",
-        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hplib_ic_forward.xml"
-    },
-    {
         "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\hplib_ic_pause.xml",
         "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hplib_ic_pause.xml"
+    },
+    {
+        "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\hplib_ic_forward.xml",
+        "source": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\hplib_ic_forward.xml"
     },
     {
         "merged": "C:\\wamp64\\www\\Dropbox\\AndroidProjects\\HungamaPlayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\hplib_ic_next.xml",
